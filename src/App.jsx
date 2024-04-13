@@ -7,7 +7,7 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      <h1 className='text-center mt-5'>Todo App</h1>
+     
       <TodoList />
     </div>
   );
