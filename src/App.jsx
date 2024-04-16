@@ -13,4 +13,4 @@ const App = () => {
   );
 };
 
-export default App; // default eksportini qo'shing
+export default App; 
